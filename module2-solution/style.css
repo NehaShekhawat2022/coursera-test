@@ -15,6 +15,20 @@ p {
   font-family: Helvetica;
   color: white;
 }
+#p1 {
+  background-color: #CCD1D1;
+  width: 300px;
+  height: 200px;
+}
+#p2 {
+  background-color: #CCD1D1;
+  width: 300px;
+  height: 200px;
+#p3 {
+  background-color: #CCD1D1;
+  width: 300px;
+  height: 200px;
+  
 
 /* Simple Responsive Framework. */
 .row {
